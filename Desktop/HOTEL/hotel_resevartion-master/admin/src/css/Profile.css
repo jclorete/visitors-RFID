@@ -1,0 +1,175 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:600|Open+Sans:600&display=swap");
+.profile-container {
+  height: 100vh;
+  width: 240px;
+  display: inline;
+}
+.sidebar {
+  position: fixed;
+  width: 240px;
+  /* left: 240px; */
+  height: 100vh;
+  background: #1e1e1e;
+  transition: all 0.5s ease;
+  top: 0;
+}
+.sidebar header {
+  font-size: 28px;
+  color: white;
+  line-height: 70px;
+  text-align: center;
+  background: #1b1b1b;
+  user-select: none;
+  font-family: "Montserrat", sans-serif;
+}
+.sidebar .a-hover {
+  display: block;
+  height: 65px;
+  width: 100%;
+  color: white;
+  line-height: 65px;
+  padding-left: 30px;
+  box-sizing: border-box;
+  border-bottom: 1px solid black;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-left: 5px solid transparent;
+  font-family: "Open Sans", sans-serif;
+  transition: all 0.5s ease;
+}
+.a-hover.active,
+.a-hover:hover {
+  border-left: 5px solid #b93632;
+  color: #b93632;
+}
+.sidebar .a-hovera i {
+  font-size: 23px;
+  margin-right: 16px;
+}
+.sidebar .a-hover span {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+#check {
+  display: none;
+}
+label #btn,
+label #cancel {
+  position: absolute;
+  cursor: pointer;
+  color: white;
+  border-radius: 5px;
+  border: 1px solid #262626;
+  margin: 15px 30px;
+  font-size: 29px;
+  background: #262626;
+  height: 45px;
+  width: 45px;
+  text-align: center;
+  line-height: 45px;
+  transition: all 0.5s ease;
+}
+label #cancel {
+  opacity: 0;
+  visibility: hidden;
+}
+#check:checked ~ .sidebar {
+  left: 0;
+}
+#check:checked ~ label #btn {
+  margin-left: 245px;
+  opacity: 0;
+  visibility: hidden;
+}
+#check:checked ~ label #cancel {
+  margin-left: 245px;
+  opacity: 1;
+  visibility: visible;
+}
+.span {
+  cursor: pointer;
+}
+.Profile-data {
+  margin-left: 240px;
+  width: 81%;
+}
+
+@media (max-width: 860px) {
+  .sidebar {
+    height: auto;
+    width: 70px;
+    left: 0;
+    margin: 100px 0;
+  }
+  header,
+  #btn,
+  #cancel {
+    display: none;
+  }
+  span {
+    position: absolute;
+    margin-left: 23px;
+    opacity: 0;
+    visibility: hidden;
+  }
+  .sidebar .a-hover {
+    height: 60px;
+  }
+  .sidebar .a-hover i {
+    margin-left: -10px;
+  }
+  .a-hover:hover {
+    width: 200px;
+    background: inherit;
+  }
+  .sidebar .a-hover:hover span {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+.profileuser-container {
+  margin-left: 240px;
+}
+
+.profileuser-container2 {
+  width: 100%;
+  max-width: 1200px;
+  background-color: #fff;
+  padding: 25px 30px;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgb(0 0 0 / 15%);
+}
+
+.profileuser-details .input-box input {
+  height: 45px;
+  width: 70%;
+  outline: none;
+  font-size: 16px;
+  border-radius: 5px;
+  padding-left: 15px;
+  border: 1px solid #ccc;
+  border-bottom-width: 2px;
+  transition: all 0.3s ease;
+}
+
+form .profileuser-details .input-box {
+  margin-bottom: 15px;
+  width: calc(100% / 2 - 20px);
+}
+
+.content form .profileuser-details {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 20px 0 12px 0;
+}
+
+.details input[type="checkbox"] {
+  height: 15px;
+  width: 10%;
+  outline: none;
+}
+
+.details.show {
+  margin-top: 20px;
+}
