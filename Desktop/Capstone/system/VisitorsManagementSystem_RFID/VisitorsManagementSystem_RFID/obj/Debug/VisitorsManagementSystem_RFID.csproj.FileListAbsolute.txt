@@ -1,0 +1,311 @@
+c:\users\keike\documents\visual studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe.config
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.VisitorsManagementSystem_RFID.exe.config
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Interface.resources
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Login.resources
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Properties.Resources.resources
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.GenerateResource.Cache
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.pdb
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.dll
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Google.Protobuf.dll
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Zstandard.Net.dll
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Renci.SshNet.dll
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Buffers.dll
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.xml
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.exe
+C:\Users\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.pdb
+C:\Users\keike\documents\visual studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Registration.resources
+C:\Users\keike\documents\visual studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Maintenance.resources
+C:\Users\keike\documents\visual studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.UserManagement.resources
+C:\Users\keike\documents\visual studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitingManagement.resources
+C:\Users\keike\documents\visual studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitorsProling.resources
+C:\Users\keike\documents\visual studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csprojResolveAssemblyReference.cache
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe.config
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.exe
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.pdb
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.pdb
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.dll
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Google.Protobuf.dll
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Zstandard.Net.dll
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\BouncyCastle.Crypto.dll
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Ubiety.Dns.Core.dll
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Renci.SshNet.dll
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Buffers.dll
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.dll
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Hash.xxHash.dll
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.xml
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csprojResolveAssemblyReference.cache
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.VisitorsManagementSystem_RFID.exe.config
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Interface.resources
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Login.resources
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Properties.Resources.resources
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Registration.resources
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.UserManagement.resources
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitingManagement.resources
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitorsProling.resources
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.GenerateResource.Cache
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.SecretaryInterface.resources
+D:\keike\Documents\Visual Studio 2015\Projects\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Maintenance.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe.config
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.exe
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.pdb
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.pdb
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Google.Protobuf.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Zstandard.Net.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Ubiety.Dns.Core.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Renci.SshNet.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Buffers.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.xml
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.VisitorsManagementSystem_RFID.exe.config
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Interface.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Login.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Maintenance.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Properties.Resources.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Registration.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.SecretaryInterface.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.UserManagement.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitingManagement.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitorsProling.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.GenerateResource.Cache
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csprojResolveAssemblyReference.cache
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Reports.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-10-03\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.PrintReport.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe.config
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.exe
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.pdb
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.pdb
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Google.Protobuf.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Zstandard.Net.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Ubiety.Dns.Core.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Renci.SshNet.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Buffers.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.xml
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.VisitorsManagementSystem_RFID.exe.config
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Interface.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Login.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Maintenance.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.PrintReport.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Properties.Resources.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Registration.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Reports.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.SecretaryInterface.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.UserManagement.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitingManagement.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitorsProling.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.GenerateResource.Cache
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-25\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csprojResolveAssemblyReference.cache
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe.config
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.exe
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.pdb
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.pdb
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Google.Protobuf.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Zstandard.Net.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Ubiety.Dns.Core.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Renci.SshNet.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Buffers.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.xml
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csprojResolveAssemblyReference.cache
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.VisitorsManagementSystem_RFID.exe.config
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Interface.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Login.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Maintenance.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.PrintReport.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Properties.Resources.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Registration.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.SecretaryInterface.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.UserManagement.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitingManagement.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitorsProling.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.GenerateResource.Cache
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.MyProfile.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-11-30\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Report.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe.config
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.exe
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.pdb
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.pdb
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Google.Protobuf.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Zstandard.Net.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Ubiety.Dns.Core.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Renci.SshNet.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Buffers.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.xml
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csprojResolveAssemblyReference.cache
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.VisitorsManagementSystem_RFID.exe.config
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Interface.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Login.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Maintenance.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.MyProfile.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.PrintReport.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Properties.Resources.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Registration.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.SecretaryInterface.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.UserManagement.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitingManagement.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitorsProling.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.GenerateResource.Cache
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2021-12-10\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Reports.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe.config
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.pdb
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Google.Protobuf.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Zstandard.Net.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Ubiety.Dns.Core.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Renci.SshNet.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Buffers.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.xml
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csprojResolveAssemblyReference.cache
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.VisitorsManagementSystem_RFID.exe.config
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Interface.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Login.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Maintenance.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.MyProfile.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.PrintReport.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Properties.Resources.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Registration.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Reports.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.SecretaryInterface.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.UserManagement.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitingManagement.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitorsProling.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.GenerateResource.Cache
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.exe
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-01-26\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.pdb
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe.config
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.exe
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.pdb
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.pdb
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Google.Protobuf.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Zstandard.Net.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Ubiety.Dns.Core.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Renci.SshNet.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Buffers.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.xml
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csprojResolveAssemblyReference.cache
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.VisitorsManagementSystem_RFID.exe.config
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Interface.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Login.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Maintenance.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.MyProfile.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.PrintReport.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Properties.Resources.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Registration.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Reports.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.SecretaryInterface.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.UserManagement.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitingManagement.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitorsProling.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-03-01\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.GenerateResource.Cache
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe.config
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.exe
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.pdb
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.pdb
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Google.Protobuf.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Zstandard.Net.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Ubiety.Dns.Core.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Renci.SshNet.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Buffers.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.xml
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csprojResolveAssemblyReference.cache
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.VisitorsManagementSystem_RFID.exe.config
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Interface.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Login.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Maintenance.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.MyProfile.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.PrintReport.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Properties.Resources.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Registration.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Reports.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.SecretaryInterface.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.UserManagement.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitingManagement.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitorsProling.resources
+D:\Users\keike\Desktop\Client's System\VMS_RFID\System\System Update 2022-04-07\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe.config
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.exe
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.pdb
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.exe
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\VisitorsManagementSystem_RFID.pdb
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Google.Protobuf.dll
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Zstandard.Net.dll
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\Renci.SshNet.dll
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\bin\Debug\MySql.Data.xml
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.VisitorsManagementSystem_RFID.exe.config
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Interface.resources
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Login.resources
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Maintenance.resources
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.MyProfile.resources
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.PrintReport.resources
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Registration.resources
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.Reports.resources
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.SecretaryInterface.resources
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.UserManagement.resources
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitingManagement.resources
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.VisitorsProling.resources
+C:\Users\LENOVO\Desktop\Capstone\system\VisitorsManagementSystem_RFID\VisitorsManagementSystem_RFID\obj\Debug\VisitorsManagementSystem_RFID.csproj.GenerateResource.Cache
